@@ -1,0 +1,101 @@
+Year,Country,Agency,Records,Organization type,Method
+2025,Pakistan,Federal Board of Revenue,"150 GB data containing CNICs, names, phone numbers, addresses and tax records.",Financial,Hacking
+2025,Pakistan,Habib Bank Limited,"Employee records, bank account details, education history, salaries data.",Financial,Hacking
+2024,Australia,Western Sydney University,"7,500, including email accounts, SharePoint files, and the Microsoft Office 365 environment",Academic,Hacking
+2024,UK,Transport for London,"5000+ Passengers data including home addresses, bank account details, unconfirmed number of Staff data leaked too",Other,Hacking
+2024,UK,England and Wales Cricket Board,43299,Government,Other
+2024,UK,NHS Dumfries and Galloway,still unknown,Healthcare,Hacking
+2024,UK,BBC,"25,290 employee pension records, including name, date of birth, home address, national insurance number",Other,Hacking
+2024,Netherlands,National Police Corps of the Netherlands,"63,000+ staff members data including names, email addresses, phone numbers",Government,Hacking
+2023,Bangladesh,"Office of the Registrar General, Birth & Death Registration","50,000,000+",Government,Misconfiguration
+2023,USA,Consumer Financial Protection Bureau,256000,Government,Misconfiguration
+2023,UK,British Library,unknown,Government,Other
+2023,Bangladesh,Cox's BazarPolice and Khulna Metropolitan Police,270000,Government,Hacking
+2023,India,Indian Council of Medical Research,"815,000,000+, including Aadhaar IDs, passport details, names, phone numbers, addresses",Government,Hacking
+2023,Philippines,"Various law enforcement agencies (Philippine National Police, National Bureau of Investigation, Bureau of Internal Revenue)",1279437,Government,Misconfiguration
+2023,Indonesia,Directorate General of Population and Civil Registration (Dukcapil),337225463,Government,Hacking
+2023,Indonesia,Directorate General of Immigration of Indonesia,34900867,Government,Hacking
+2022,USA,California Department of Corrections and Rehabilitation,"236,000 inmates personally identifiable information (PII) and protected health information (PHI)",Government,Other
+2022,Russia,Roscosmos,"handwritten forms, PDFs, spreadsheets, descriptions of lunar missions.",Other,Hacking
+2022,China,Shanghai National Police Database,"1,000,000,000, including name, address, birthplace, national ID number, mobile number, all crime/case details",Government,Misconfiguration
+2021,Ireland,Health Service Executive,unknown,Healthcare,Other
+2021,United Nations,?,unknown,Other,Hacking
+2020,USA,Various,TBC,Military,Hacking
+2020,Australia,Service NSW,104000,Government,Hacking
+2020,Slovakia,National Health Information Center (NCZI) of Slovakia,391250,Healthcare,Misconfiguration
+2019,Chile,Servicio Electoral de Chile (Servel),"14,308,151, including names, addresses, tax ID numbers",Government,Misconfiguration
+2019,Ecuador,?,"20,800,000 records, including names, family members, financial and work data, civil registration data, car ownership data",Government,Misconfiguration
+2019,Malaysia,Universiti Teknologi MARA,1164540,Academic,Hacking
+2019,Australia,Australian National University,19 years of data,Academic,Hacking
+2019,United Nations,?,unknown,Other,Hacking
+2019,Singapore,Ministry of Health,14200,Healthcare,Insider Threat
+2019,Singapore,Health Sciences Authority,808000,Healthcare,Misconfiguration
+2019,Bulgaria,Bulgarian National Revenue Agency,"over 5,000,000",Government,Hacking
+2018,USA,United States Postal Service,60000000,Government,Misconfiguration
+2018,Argentina,RENAPER (Argentina)[87][88],45000000,Government,Misconfiguration
+2018,USA,Centers for Medicare & Medicaid Services,75000,Healthcare,Hacking
+2017,USA,Central Intelligence Agency,91,Other,Insider Threat
+2017,UK,Heathrow Airport,2.5GB,Other,Lost / Stolen Device
+2017,South Korea,Defense Integrated Data Center (South Korea),235 GB,Military,Hacking
+2016,UK,Ofcom,unknown,Other,Insider Threat
+2016,USA,FBI,Records,Government,Hacking
+2016,USA,University of Central Florida,63000,Academic,Hacking
+2016,USA,"University of California, Berkeley",80000,Academic,Hacking
+2016,Philippines,Commission on Elections,55000000,Government,Hacking
+2016,USA,Democratic National Committee,19252,Government,Hacking
+2016,USA,Department of Homeland Security,30000,Government,Misconfiguration
+2016,Philippines,Commission on Elections,records,Government,Hacking
+2015,Australia,Australian Immigration Department,G20 world leaders,Government,Accidental Exposure
+2015,Japan,?,680000,Government,Insider Threat
+2015,Japan,Japan Pension Service,1250000,Other,Hacking
+2015,USA,Internal Revenue Service,720000,Financial,Hacking
+2015,USA,Office of Personnel Management,21500000,Government,Hacking
+2014,European Union,European Central Bank,unknown,Financial,Hacking
+2014,USA,"University of Maryland, College Park",300000,Academic,Hacking
+2013,South Africa,South Africa police,16000,Government,Hacking
+2013,USA,Florida Department of Juvenile Justice,100000,Government,Lost / Stolen Device
+2013,USA,Kirkwood Community College,125000,Academic,Hacking
+2013,USA,Various,,Government,Other
+2013,USA,Washington State court system,160000,Government,Hacking
+2012,USA,South Carolina Department of Revenue,6400000,Healthcare,Insider Threat
+2012,USA,California Department of Child Support Services,800000,Government,Lost / Stolen Device
+2012,USA,Medicaid,780000,Healthcare,Hacking
+2012,Greece,?,9000000,Government,Hacking
+2012,USA,Office of the Texas Attorney General,6500000,Government,Accidental Exposure
+2012,Syria,Various,2434899,Government,Hacking
+2011,USA,University of Wisconsin–Milwaukee,73000,Academic,Hacking
+2011,USA,U.S. Army,50000,Military,Accidental Exposure
+2011,USA,Massachusetts Executive Office of Labor and Workforce Development,"210,000, including names, Social Security numbers, employer identification numbers, emails, home addresses",Government,Hacking
+2011,USA,Tricare,"4,901,432, including Social Security numbers, addresses, phone numbers, clinical notes, laboratory tests, prescriptions",Healthcare,Lost / Stolen Device
+2011,USA,?,3500000,Government,Accidental Exposure
+2011,USA,San Francisco Public Utilities Commission,180000,Government,Hacking
+2011,USA,70 different law enforcement agencies,123461,Government,Accidental Exposure
+2011,USA,Oregon Department of Transportation,"1,000,000, including names, addresses, dates of birth",Government,Hacking
+2010,USA,U.S. Army,392000,Government,Insider Threat
+2010,USA,Colorado Department of Health Care Policy & Financing,105470,Healthcare,Lost / Stolen Device
+2010,USA,U.S. State Department,260000,Military,Insider Threat
+2010,UK,Yale University,43000,Academic,Accidental Exposure
+2010,USA,Ohio State University,"760,000, including names, Social Security numbers, dates of birth, addresses",Academic,Hacking
+2010,USA,Federal Reserve Bank of Cleveland,400000,Financial,Hacking
+2010,USA,Puerto Rico Department of Health,515000,Healthcare,Hacking
+2009,USA,"University of California, Berkeley",160000,Academic,Hacking
+2009,UK,United Kingdom parliamentary expenses scandal,Records,Government,Other
+2009,USA,Virginia Prescription Monitoring Program,8257378,Healthcare,Hacking
+2009,USA,National Guard of the United States,"131,000, including names, Social Security Numbers, incentive payment amounts, payment dates",Military,Lost / Stolen Device
+2009,USA,U.S. Department of Defense,72000,Military,Lost / Stolen Device
+2009,USA,National Archives and Records Administration (U.S. military veterans records),76000000,Military,Lost / Stolen Device
+2008,Norway,Norwegian Tax Administration,3950000,Government,Accidental Exposure
+2008,UK,British National Party,Records,Other,Other
+2008,Chile,Ministry of Education,"6,000,000, including ID card numbers, addresses, telephone numbers academic records",Government,Hacking
+2008,USA,Stanford University,"72,000, including dates of birth, Social Security numbers, home addresses",Academic,Lost / Stolen Device
+2008,USA,?,1600000,Government,Accidental Exposure
+2008,UK,UK Home Office,84000,Government,Lost / Stolen Device
+2008,UK,UK Ministry of Defence,1700000,Government,Lost / Stolen Device
+2008,USA,University of Utah Hospital & Clinics,2200000,Academic,Lost / Stolen Device
+2008,USA,University of Miami,2100000,Academic,Lost / Stolen Device
+2008,UK,Service Personnel and Veterans Agency (UK),50500,Government,Lost / Stolen Device
+2007,UK,UK Revenue & Customs,25000000,Government,Lost / Stolen Device
+2007,UK,Driving Standards Agency,3000000,Government,Lost / Stolen Device
+2007,USA,Texas Lottery,"89,000+, including names, Social Security numbers, addresses, prize amounts",Government,Insider Threat
+2007,UK,City and Hackney Teaching Primary Care Trust,160000,Healthcare,Lost / Stolen Device
+2006,USA,U.S. Department of Veteran Affairs,26500000,Military,Lost / Stolen Device

@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+lxml
+html5lib
+dash
+plotly
+dash_bootstrap_components
