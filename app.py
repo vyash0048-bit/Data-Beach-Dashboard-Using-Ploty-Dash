@@ -13,10 +13,10 @@ def load_data():
     try:
         d1 = pd.read_csv("data1_country_wise_breaches.csv")
         d2 = pd.read_csv("data2_company_wise_breaches.csv")
-        print("✅ Successfully loaded CSV files.")
+        print("Successfully loaded CSV files.")
         return d1, d2
     except FileNotFoundError:
-        print("❌ CSV files not found. Using empty dataframes.")
+        print("CSV files not found. Using empty dataframes.")
         return pd.DataFrame(), pd.DataFrame()
 
 data1, data2 = load_data()
@@ -33,7 +33,6 @@ def get_entity_column(df):
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
 server = app.server
 
-# --- Custom Styles ---
 card_style = {
     "backgroundColor": "rgba(20, 20, 20, 0.6)",
     "border": "1px solid #444",
@@ -53,7 +52,6 @@ title_style = {
     'textShadow': '0 0 5px rgba(0, 212, 255, 0.6)'
 }
 
-# New Stylish Dropdown Style
 dropdown_style = {
     'backgroundColor': 'rgba(0, 0, 0, 0.5)', # Semi-transparent dark
     'color': '#00d4ff',                       # Neon Text
@@ -310,4 +308,5 @@ def update_dashboard(view, active_filter):
     )
 
 if __name__ == "__main__":
+
     app.run(debug=True)
