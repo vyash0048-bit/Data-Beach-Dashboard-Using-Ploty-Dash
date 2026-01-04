@@ -1,7 +1,7 @@
 ## Data Breach Dashboard 🛡️
 A high-performance, interactive cyber intelligence dashboard built with Python, Dash, and Plotly. This application visualizes historical data breach records from global companies and countries, providing insights into attack vectors, vulnerable sectors, and trends over time.
 
-![Dashboard Preview](https://raw.githubusercontent.com/vyash0048-bit/Data-Beach-Dashboard-Using-Ploty-Dash/main/dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/vyash0048-bit/Data-Beach-Dashboard-Using-Ploty-Dash/blob/main/Screenshot%202026-01-04%20190918.png)
 
 ## 🚀 Features
 - Cyber/Neon UI: A sleek, dark-mode interface designed with the CYBORG Bootstrap theme and glowing neon accents.
