@@ -1,0 +1,375 @@
+Year,Entity,Records,Organization type,Method
+2025,PANDORA,"name, birthdate, email address",Retail & E-commerce,Hacking
+2025,Kido International,"Allegedly 8,000 children's and staff records exposed, including names, photographs, dates of birth, home addresses and parent contact details",Other,Hacking
+2025,Discord,"Limited numbers of names, usernames, emails, IP addresses, limited billing information",Social / Community,Other
+2024,Cutout.Pro,19972829,Technology,Hacking
+2024,Roku,"15,363 accounts",Technology,Credential Compromise
+2024,AT&T,110000000,Telecom,Hacking
+2024,Game Freak,2606,Gaming,Hacking
+2024,Ticketmaster,560000000,Transport & Logistics,Hacking
+2024,Snowflake,"Up to 165 victims, including AT&T, Ticketmaster, Advanced Auto Parts, Lending Tree, Cylance, Santander Bank and Neiman Marcus.",Technology,Credential Compromise
+2024,Financial Business and Consumer Solutions (FBCS),4250000,Financial Services,Ransomware
+2024,Trello,15111945,Technology,Other
+2024,Roll20,"12,000,000, including full names, email addresses, IP addresses, the last four digits of credit cards",Gaming,Credential Compromise
+2024,National Public Data,"2,900,000,000+ (claimed), including names, email addresses, phone numbers, Social Security numbers, and mailing addresses",Financial Services,Hacking
+2024,Spoutible,207114,Social / Community,Other
+2024,Twilio,"33,000,000, including phone numbers,",Technology,Credential Compromise
+2024,Dell,"49,000,000, including customer's names, addresses, order and hardware information",Retail & E-commerce,Other
+2024,Disney,1.2 TB of internal Slack data,Media & Entertainment,Hacking
+2024,Kadokawa Corporation,"1.5TB of corporate, and personal information of users and employees of Niconico",Technology,Ransomware
+2024,Persol Carrier,549195,Other,Misconfiguration
+2024,ADT Inc.,"30,800, including email addresses, phone numbers and postal addresses.",Technology,Other
+2024,Bell Canada,2200000,Telecom,Other
+2024,Ititan Hosting Solutions,unknown,Technology,Hacking
+2024,Tangerine Telecom,243462,Telecom,Credential Compromise
+2023,Shadow PC,"533,624, including full names, email addresses, dates of birth, billing addresses and credit card expiration dates",Technology,Credential Compromise
+2023,Infosys McCamish Systems,"57,028 Bank of America customers, including names and Social Security numbers 28,268 Fidelity Investments customers, including names, dates of birth, Social Security numbers, bank account and routing numbers, credit card numbers, passwords, PINs",Technology,Hacking
+2023,Chess.com,800000,Gaming,Hacking
+2023,Roblox,"3,943, including names, usernames, dates of birth, physical addresses, email addresses, IP addresses, phone numbers, and T-shirt sizes.",Gaming,Other
+2023,HCA Healthcare,11270000,Healthcare,Hacking
+2023,KitchenPal (iCuisto),100000,Technology,Hacking
+2023,Insomniac Games,"1.67 TB, 1.3 million files of passports, I-9 forms, termination documents, Slack messages, Wolverine game data",Gaming,Other
+2023,Duolingo,2676696,Other,Hacking
+2023,Manipulated Caiman,40000000,Financial Services,Hacking
+2023,Lyca Mobile,16000000,Telecom,Hacking
+2023,Tesla,75000,Transport & Logistics,Insider Threat
+2023,Golfzon,"2,210,000, including names, phone numbers, email addresses, dates of birth",Other,Ransomware
+2023,23andMe,6900000,Healthcare,Credential Compromise
+2023,Yum! Brands,"names, driver's license numbers, and other ID card numbers.",Retail & E-commerce,Ransomware
+2023,DonorView[87][88],948029,Non-Profit / Public,Misconfiguration
+2023,Wellnow Urgent Care,"patients’ names, dates of birth, health information",Healthcare,Ransomware
+2023,MediaWorks New Zealand,162710,Media & Entertainment,Hacking
+2023,Evide data breach,1000,Other,Ransomware
+2023,U-Haul,"67,000, including full names, dates of birth, driver license numbers",Transport & Logistics,Credential Compromise
+2023,Line Yahoo,520006,Media & Entertainment,Hacking
+2023,NTT Business Solutions,9000000,Telecom,Hacking
+2023,DC Health Link,56000,Healthcare,Misconfiguration
+2023,Facebook Marketplace,200000,Social / Community,Other
+2023,Fidelity National Financial,1300000,Financial Services,Other
+2023,T-Mobile,37000000,Telecom,Hacking
+2023,Callaway Golf Company,"1,114,954, including full names, shipping addresses, email addresses, phone numbers, order histories, account passwords, answers to security questions",Other,Hacking
+2023,Tic Hosting Solutions (known as Torchbyte),46,Technology,Misconfiguration
+2023,NTT Docomo,5960000,Telecom,Hacking
+2022,Medibank & AHM,9700000,Healthcare,Hacking
+2022,LastPass 2022 data breach,Password vault backup,Technology,Other
+2022,Morinaga Confectionery,1648922,Retail & E-commerce,Ransomware
+2022,50 companies and government institutions,6400000,Other,Misconfiguration
+2022,OGUsers,529000,Technology,Hacking
+2022,Optus,9800000,Telecom,Hacking
+2022,International Committee of the Red Cross,515000,Non-Profit / Public,Other
+2022,IKEA,95000,Retail & E-commerce,Accidental Exposure
+2022,Iberdrola,1300000,Other,Misconfiguration
+2022,Twilio,125,Technology,Credential Compromise
+2022,Uber,"No customer, driver, or sensitive personal data was directly stolen. Exposure of sensitive data from internal systems.",Transport & Logistics,Hacking
+2022,Diskunion,701000,Retail & E-commerce,Hacking
+2021,CyberServe,1107034,Technology,Hacking
+2021,Dedalus Biologie (a division of Dedalus Global[88]),500000,Healthcare,Misconfiguration
+2021,EssilorLuxottica,77093812,Healthcare,Hacking
+2021,goregrish.com,300000,Technology,Hacking
+2021,Pandora Papers,,Other,Other
+2021,Epik,15000000,Technology,Hacking
+2021,Air India,"4,500,000, including name, date of birth, contact information, passport information, frequent flyer data, credit card data, ticket information",Transport & Logistics,Hacking
+2021,"Ankle & Foot Center of Tampa Bay, Inc.",156000,Healthcare,Hacking
+2021,"Apple, Inc./BlueToad",12367232,Other,Accidental Exposure
+2021,Microsoft Exchange servers,unknown,Technology,Hacking
+2021,Apple Health Medicaid,91000,Healthcare,Misconfiguration
+2021,AT&T,72000000,Telecom,Other
+2021,Atraf,unknown,Social / Community,Hacking
+2021,Ancestry.com,300000,Other,Misconfiguration
+2021,Twitch,unknown,Technology,Hacking
+2021,Reddit,unknown,Social / Community,Hacking
+2021,T-Mobile,45000000,Telecom,Hacking
+2021,"NEC Networks, LLC[87][88]",1600000,Healthcare,Hacking
+2020,Experian,23000000,Financial Services,Credential Compromise
+2020,Vastaamo,130000,Healthcare,Hacking
+2020,View Media,38000000,Other,Other
+2020,Virgin Media,900000,Telecom,Accidental Exposure
+2020,Wattpad,270000000,Technology,Hacking
+2020,Wawa (company),30000000,Retail & E-commerce,Hacking
+2020,YouTube,4000000,Social / Community,Misconfiguration
+2020,Tokopedia,91000000,Retail & E-commerce,Hacking
+2020,Marriott International,5200000,Retail & E-commerce,Insider Threat
+2020,TikTok,42000000,Social / Community,Misconfiguration
+2020,FireEye,Unknown,Technology,Hacking
+2020,SolarWinds,Source Code Compromised,Technology,Hacking
+2020,SlickWraps,377428,Other,Misconfiguration
+2020,ShopBack,unknown,Retail & E-commerce,Hacking
+2020,Instagram,200000000,Social / Community,Misconfiguration
+2020,Razer,"100,000, including email and mailing addresses, product orders, and phone numbers.",Technology,Misconfiguration
+2020,Rakuten,1381735,Retail & E-commerce,Hacking
+2020,PayPay,20076016,Other,Hacking
+2020,Now:Pensions,30000,Financial Services,Insider Threat
+2020,Nintendo (Nintendo Account),160000,Gaming,Hacking
+2020,Les Éditions Protégez-vous,380000,Media & Entertainment,Other
+2020,Tetrad,120000000,Other,Misconfiguration
+2020,Koodo Mobile,unknown,Telecom,Hacking
+2020,CheckPeople,56000000,Other,Other
+2020,Clearview AI,unknown (client list),Technology,Hacking
+2020,Betsson Group,unknown,Gaming,Other
+2020,Animal Jam,46000000,Gaming,Hacking
+2020,Capcom,350000,Gaming,Hacking
+2020,Accendo Insurance Co.,175350,Healthcare,Misconfiguration
+2020,500px,14870304,Social / Community,Hacking
+2019,First American Corporation,885000000,Financial Services,Misconfiguration
+2019,Facebook,540000000,Social / Community,Misconfiguration
+2019,Facebook,1500000,Social / Community,Accidental Exposure
+2019,Facebook,267000000,Social / Community,Misconfiguration
+2019,MongoDB,202000000,Technology,Misconfiguration
+2019,Fast Retailing,461091,Retail & E-commerce,Hacking
+2019,Adobe Inc.,7500000,Technology,Misconfiguration
+2019,Capital One,106000000,Financial Services,Other
+2019,Microsoft,250000000,Technology,Misconfiguration
+2019,MGM Resorts,10600000,Retail & E-commerce,Hacking
+2019,Amazon Japan G.K.,unknown,Technology,Accidental Exposure
+2019,LifeLabs[87][88],15000000,Healthcare,Hacking
+2019,Mobile TeleSystems (MTS),100000000,Telecom,Misconfiguration
+2019,Verifications.io (total leaks),2000000000,Other,Misconfiguration
+2019,Verifications.io (first leak),809000000,Other,Misconfiguration
+2019,Airtel,320000000,Telecom,Misconfiguration
+2019,Justdial,100000000,Technology,Misconfiguration
+2019,Truecaller,299055000,Telecom,Other
+2019,Zynga,173000000,Social / Community,Hacking
+2019,MongoDB,275000000,Technology,Misconfiguration
+2019,StockX,6800000,Retail & E-commerce,Hacking
+2019,Westpac,98000,Financial Services,Hacking
+2019,Quest Diagnostics,11900000,Healthcare,Misconfiguration
+2019,EasyJet,"9,000,000 (approx) - basic booking, 2208 (credit card details)",Transport & Logistics,Hacking
+2019,ElasticSearch,108000000,Technology,Misconfiguration
+2019,DoorDash,4900000,Technology,Hacking
+2019,Woodruff Arts Center,unknown,Non-Profit / Public,Misconfiguration
+2019,Collection No. 1,773000000,Other,Other
+2019,Desjardins,9700000,Financial Services,Insider Threat
+2019,Canva,140000000,Technology,Hacking
+2018,British Airways,500000,Transport & Logistics,Hacking
+2018,Apollo,125000000,Technology,Misconfiguration
+2018,Quora,100000000,Technology,Hacking
+2018,MyHeritage,92283889,Other,Other
+2018,Typeform,unknown,Technology,Misconfiguration
+2018,Popsugar,123857,Media & Entertainment,Hacking
+2018,Roll20,"4,000,000, including email addresses, IP addresses, names, the last four digits of credit cards",Gaming,Hacking
+2018,Bethesda Game Studios,"customer names, addresses, contact details, partial credit card numbers",Gaming,Accidental Exposure
+2018,Reddit,"usernames, emails, 2007 database backup",Social / Community,Credential Compromise
+2018,Newegg,credit card information,Retail & E-commerce,Other
+2018,BMO and Simplii,90000,Financial Services,Misconfiguration
+2018,Orbitz,880000,Technology,Hacking
+2018,Blank Media Games,7633234,Gaming,Hacking
+2018,Ticketmaster,"40,000, including login information, payment data, addresses, names, phone numbers",Transport & Logistics,Other
+2018,Air Canada,20000,Transport & Logistics,Hacking
+2018,Ticketfly (subsidiary of Eventbrite),26151608,Transport & Logistics,Hacking
+2018,Marriott International,500000000,Retail & E-commerce,Hacking
+2018,Cathay Pacific Airways,9400000,Transport & Logistics,Hacking
+2018,SingHealth,1500000,Healthcare,Hacking
+2018,Saks Fifth Avenue / Lord & Taylor,credit card records,Retail & E-commerce,Hacking
+2018,Bell Canada,100000,Telecom,Hacking
+2018,WordPress,thousands of websites,Technology,Hacking
+2018,Epic Games Fortnite,user accounts,Gaming,Hacking
+2018,Facebook,50000000,Social / Community,Misconfiguration
+2018,Google Plus,500000,Social / Community,Misconfiguration
+2018,Dubsmash,162000000,Social / Community,Hacking
+2018,"Earl Enterprises (Buca di Beppo, Earl of Sandwich, Planet Hollywood, Chicken Guy, Mixology, Tequila Taqueria)",2000000,Retail & E-commerce,Hacking
+2018,HauteLook,28517244,Retail & E-commerce,Hacking
+2018,Exactis,340000000,Financial Services,Misconfiguration
+2018,MyFitnessPal[630][631],150000000,Other,Hacking
+2018,AerServ (subsidiary of InMobi),75000,Other,Hacking
+2017,Advocate Medical Group,4000000,Healthcare,Lost / Stolen Device
+2017,Taringa!,28722877,Technology,Hacking
+2017,Paradise Papers,records,Other,Other
+2017,Equifax,"143,000,000, including names, date of birth, Social Security numbers, addresses, credit cards, driver's licenses",Financial Services,Misconfiguration
+2017,Deloitte,350 clients emails,Other,Misconfiguration
+2017,Bell Canada,1900000,Telecom,Misconfiguration
+2017,Uber,57000000,Transport & Logistics,Hacking
+2017,Grozio Chirurgija,25000,Healthcare,Hacking
+2016,Nippon Television,430000,Media & Entertainment,Hacking
+2016,Weebly,43430316,Technology,Hacking
+2016,TaxSlayer.com,8800,Technology,Hacking
+2016,Verizon Communications,1500000,Telecom,Hacking
+2016,Taobao,20000000,Retail & E-commerce,Hacking
+2016,Central Coast Credit Union,60000,Financial Services,Hacking
+2016,Australian Red Cross Blood Service,"550,000, including names, contact details, birthdates, medical details, information about ""at-risk sexual behaviour""",Non-Profit / Public,Accidental Exposure
+2016,Funimation,2500000,Technology,Hacking
+2016,Rosen Hotels[87][88],unknown,Retail & E-commerce,Hacking
+2016,Mossack Fonseca,Panama Papers,Other,Other
+2016,Inuvik hospital,6700,Healthcare,Insider Threat
+2016,Myspace,"360,000,000+, including usernames, passwords email addresses",Social / Community,Credential Compromise
+2016,Gyft,unknown,Technology,Hacking
+2016,KM.RU,1500000,Technology,Hacking
+2016,EyeWire,unknown,Technology,Lost / Stolen Device
+2016,Roblox,"52,458, including account balances, email addresses, IP addresses, purchases, usernames",Gaming,Misconfiguration
+2016,Cox Communications,40000,Telecom,Hacking
+2016,Friend Finder Network,412214295,Technology,Hacking
+2015,Starwood including Westin Hotels & Resorts and Sheraton Hotels and Resorts,54 locations,Retail & E-commerce,Hacking
+2015,Walmart,1300000,Retail & E-commerce,Hacking
+2015,Wendy's,unknown,Retail & E-commerce,Hacking
+2015,VTech,5000000,Retail & E-commerce,Hacking
+2015,CVS,millions,Healthcare,Hacking
+2015,Experian - T-Mobile US,15000000,Telecom,Hacking
+2015,TalkTalk,records,Telecom,Hacking
+2015,Excellus BlueCross BlueShield,10000000,Healthcare,Hacking
+2015,Natural Grocers,93 stores,Retail & E-commerce,Hacking
+2015,Medical Informatics Engineering,3900000,Healthcare,Hacking
+2015,Anthem Inc.,80000000,Healthcare,Hacking
+2015,Slack,500000,Technology,Misconfiguration
+2015,Scottrade,4600000,Financial Services,Hacking
+2015,"UCLA Medical Center, Santa Monica",4500000,Healthcare,Hacking
+2015,Hyatt Hotels,250 locations,Retail & E-commerce,Hacking
+2015,Premera,11000000,Healthcare,Hacking
+2015,Twitch,unknown,Technology,Hacking
+2015,Patreon,2300000,Technology,Hacking
+2015,CareFirst BlueCross Blue Shield - Maryland,1100000,Healthcare,Hacking
+2015,Xat.com,6054459,Technology,Credential Compromise
+2015,21st Century Oncology,"2,200,000 customer's data, including names, Social Security numbers, physicians, diagnoses, insurance information",Healthcare,Hacking
+2015,"Landry's, Inc.",500 locations,Retail & E-commerce,Hacking
+2015,LastPass,"password reminders, e-mail addresses",Technology,Hacking
+2015,Ashley Madison,32000000,Social / Community,Hacking
+2015,Bailey's Inc.,250000,Retail & E-commerce,Hacking
+2015,British Airways,tens of thousands,Transport & Logistics,Hacking
+2014,Yahoo,500000000,Technology,Hacking
+2014,Neiman Marcus,1100000,Retail & E-commerce,Hacking
+2014,eBay,145000000,Retail & E-commerce,Hacking
+2014,Sony Pictures,100 terabytes,Media & Entertainment,Hacking
+2014,New York Taxis,52000,Transport & Logistics,Misconfiguration
+2014,Domino's Pizza (France),600000,Retail & E-commerce,Hacking
+2014,Staples,customer payment cards,Retail & E-commerce,Hacking
+2014,Benesse,35040000,Other,Hacking
+2014,Michaels,3000000,Retail & E-commerce,Hacking
+2014,NASDAQ,unknown,Financial Services,Hacking
+2014,JP Morgan Chase,76000000,Financial Services,Hacking
+2014,UPS,51 locations,Transport & Logistics,Hacking
+2014,AOL,2400000,Technology,Hacking
+2014,Korea Credit Bureau,20000000,Financial Services,Insider Threat
+2014,Mozilla,76000,Technology,Misconfiguration
+2014,Apple iCloud,photographs of celebrities,Technology,Other
+2014,LexisNexis,1000000,Technology,Hacking
+2014,Trump Hotels,8 locations,Retail & E-commerce,Hacking
+2014,Gmail,5000000,Technology,Hacking
+2014,MacRumors.com,860000,Technology,Hacking
+2014,Mandarin Oriental Hotels,10 locations,Retail & E-commerce,Hacking
+2014,Community Health Systems,4500000,Healthcare,Hacking
+2014,Uber,50000,Transport & Logistics,Misconfiguration
+2014,Home Depot,56000000,Retail & E-commerce,Hacking
+2014,Supervalu,200 stores,Retail & E-commerce,Hacking
+2014,Hilton Hotels,363000,Retail & E-commerce,Hacking
+2013,Twitter,250000,Social / Community,Hacking
+2013,Yahoo Japan,22000000,Technology,Hacking
+2013,Tumblr,65469298,Technology,Hacking
+2013,"Affinity Health Plan, Inc.",344579,Healthcare,Lost / Stolen Device
+2013,Yahoo,3000000000,Technology,Hacking
+2013,Vodafone,2000000,Telecom,Insider Threat
+2013,Scribd,500000,Technology,Hacking
+2013,Apple,275000,Technology,Hacking
+2013,TerraCom & YourTel,170000,Telecom,Accidental Exposure
+2013,Target Corporation,110000000,Retail & E-commerce,Hacking
+2013,Ubisoft,unknown,Gaming,Hacking
+2013,Snapchat,4700000,Social / Community,Hacking
+2013,Adobe Systems Incorporated,152000000,Technology,Hacking
+2013,Ubuntu,2000000,Technology,Hacking
+2013,Drupal,1000000,Technology,Hacking
+2013,OVH,undisclosed,Technology,Hacking
+2013,Kroll Background America,1000000,Technology,Hacking
+2013,Citigroup,150000,Financial Services,Misconfiguration
+2013,Nintendo (Club Nintendo),240000,Gaming,Hacking
+2013,Facebook,6000000,Social / Community,Accidental Exposure
+2013,Evernote,50000000,Technology,Hacking
+2013,"Crescent Health Inc., Walgreens",100000,Healthcare,Lost / Stolen Device
+2013,Living Social,50000000,Technology,Hacking
+2013,Central Hudson Gas & Electric,110000,Other,Hacking
+2013,Dun & Bradstreet,1000000,Technology,Hacking
+2012,"LinkedIn, eHarmony, Last.fm",8000000,Technology,Accidental Exposure
+2012,KT Corporation,8700000,Telecom,Hacking
+2012,New York State Electric & Gas,1800000,Other,Insider Threat
+2012,Rambler.ru,98167935,Technology,Hacking
+2012,TD Bank,260000,Financial Services,Hacking
+2012,"Iranian banks (three: Saderat, Eghtesad Novin, and Saman)",3000000,Financial Services,Hacking
+2012,Massive American business hack,160000000,Financial Services,Hacking
+2012,Global Payments,7000000,Financial Services,Hacking
+2012,Militarysingles.com,163792,Social / Community,Accidental Exposure
+2012,Emory Healthcare,315000,Healthcare,Misconfiguration
+2012,Zappos,24000000,Retail & E-commerce,Hacking
+2012,Formspring,420000,Technology,Accidental Exposure
+2012,Barnes & Noble,63 stores,Retail & E-commerce,Hacking
+2012,Dropbox,68648009,Technology,Hacking
+2012,Yahoo! Voices,450000,Technology,Hacking
+2012,Gamigo[87][369],8000000,Technology,Hacking
+2012,Blizzard Entertainment,14000000,Gaming,Hacking
+2011,Writerspace.com,62000,Technology,Hacking
+2011,Memorial Healthcare System,102153,Healthcare,Lost / Stolen Device
+2011,Eisenhower Medical Center,514330,Healthcare,Lost / Stolen Device
+2011,Sutter Medical Center,4243434,Healthcare,Lost / Stolen Device
+2011,China Software Developer Network,6000000,Technology,Hacking
+2011,"Chinese gaming websites (three: Duowan, 7K7K, 178.com)",10000000,Gaming,Hacking
+2011,Washington Post,1270000,Media & Entertainment,Hacking
+2011,Citigroup,360083,Financial Services,Hacking
+2011,Honda Canada,"283,000, including names, addresses, VIN numbers, Honda Financial Services Account numbers, phone numbers, e-mail addresses",Transport & Logistics,Hacking
+2011,Health Net — IBM,1900000,Healthcare,Lost / Stolen Device
+2011,Tianya Club,28000000,Technology,Hacking
+2011,Nexon Korea Corp,13200000,Gaming,Hacking
+2011,Sega,1290755,Gaming,Hacking
+2011,Sony Pictures,"1,000,000, including passwords, email addresses, phone numbers, home addresses, dates of birth",Technology,Other
+2011,Southern California Medical-Legal Consultants,300000,Healthcare,Hacking
+2011,Spartanburg Regional Healthcare System,"400,000, including names, Social Security numbers, addresses, dates of birth and medical billing codes",Healthcare,Lost / Stolen Device
+2011,Sony Online Entertainment,24600000,Gaming,Hacking
+2011,Stratfor,?,Other,Hacking
+2011,Nemours Foundation,1055489,Healthcare,Lost / Stolen Device
+2011,Bethesda Game Studios,200000,Gaming,Hacking
+2011,Morgan Stanley Smith Barney,34000,Financial Services,Lost / Stolen Device
+2011,Sony PlayStation Network,77000000,Gaming,Hacking
+2011,Steam,35000000,Gaming,Hacking
+2011,NHS,8630000,Healthcare,Lost / Stolen Device
+2011,Restaurant Depot,200000,Retail & E-commerce,Other
+2010,Facebook,87000000,Social / Community,Insider Threat
+2010,"Triple-S Salud, Inc.",398000,Healthcare,Lost / Stolen Device
+2010,"Seacoast Radiology, PA",231400,Healthcare,Hacking
+2010,Gawker,1500000,Technology,Hacking
+2010,AT&T,114000,Telecom,Hacking
+2010,"Emergency Healthcare Physicians, Ltd.",180111,Healthcare,Lost / Stolen Device
+2010,"South Shore Hospital, Massachusetts",800000,Healthcare,Lost / Stolen Device
+2010,Lincoln Medical & Mental Health Center,130495,Healthcare,Lost / Stolen Device
+2010,Educational Credit Management Corporation,3300000,Non-Profit / Public,Lost / Stolen Device
+2010,New York City Health & Hospitals Corp.,1700000,Healthcare,Lost / Stolen Device
+2010,Betfair,2300000,Gaming,Hacking
+2009,"AvMed, Inc.",1220000,Healthcare,Lost / Stolen Device
+2009,Heartland Payment Systems,130000000,Financial Services,Hacking
+2009,BlueCross BlueShield of Tennessee,1023039,Healthcare,Lost / Stolen Device
+2009,Network Solutions,573000,Technology,Hacking
+2009,Elance,1.3 million,Other,Hacking
+2009,CheckFree Corporation,5000000,Financial Services,Hacking
+2009,RockYou!,32000000,Gaming,Hacking
+2009,Health Net,"1,500,000, including names, medical records, addresses, Social Security numbers",Healthcare,Lost / Stolen Device
+2008,"Data Processors International  (MasterCard, Visa, Discover Financial Services and American Express)",8000000,Financial Services,Hacking
+2008,Hannaford Brothers Supermarket Chain,"4,200,000, including credit card numbers and expiration dates",Retail & E-commerce,Hacking
+2008,GE Money,"650,000 customer's data, including 150,000 Social Security numbers and in-store credit card information from retail customers",Financial Services,Other
+2008,The Bank of New York Mellon,"12,500,000, including names, addresses, birth dates, Social Security numbers",Financial Services,Lost / Stolen Device
+2008,Countrywide Financial Corp,2500000,Financial Services,Insider Threat
+2008,GS Caltex,"11,100,000, including names, Social Security numbers, addresses, cell phone numbers, email addresses and workplaces of customers",Other,Lost / Stolen Device
+2008,RBS Worldpay,1500000,Financial Services,Hacking
+2008,Auction.co.kr,18000000,Technology,Hacking
+2008,AT&T,113000,Telecom,Lost / Stolen Device
+2008,Starbucks,"97,000, including names, addresses, and Social Security numbers",Retail & E-commerce,Lost / Stolen Device
+2007,Compass Bank,1000000,Financial Services,Insider Threat
+2007,D. A. Davidson & Co.,"192,000 clients' names, customer account and Social Security numbers, addresses and dates of birth",Financial Services,Other
+2007,Accenture,,Other,Other
+2007,JP Morgan Chase,2600000,Financial Services,Lost / Stolen Device
+2007,Fidelity National Information Services,8500000,Financial Services,Insider Threat
+2007,Dai Nippon Printing,"8,637,405, including names, addresses, credit card numbers",Other,Insider Threat
+2007,TK / TJ Maxx,94000000,Retail & E-commerce,Hacking
+2007,CGI Group,283000,Other,Other
+2007,Gap Inc.,800000,Retail & E-commerce,Lost / Stolen Device
+2007,TD Ameritrade,6300000,Financial Services,Hacking
+2007,Monster.com,1600000,Technology,Hacking
+2006,Boeing,"382,000 employees (after similar losses of data on 3,600 employees in April and 161,000 employees in November, 2005)",Transport & Logistics,Other
+2006,"T-Mobile, Deutsche Telekom","17,000,000, including phone numbers, addresses, dates of birth, email addresses",Telecom,Lost / Stolen Device
+2006,AOL,20000000,Technology,Other
+2006,Ernst & Young,"234,000 customers of Hotels.com (after a similar loss of data on 38,000 employees of Ernst & Young clients in February)",Other,Other
+2006,KDDI,4000000,Telecom,Hacking
+2006,Hewlett Packard,200000,Other,Lost / Stolen Device
+2006,Automatic Data Processing,125000,Financial Services,Misconfiguration
+2006,Mitsubishi Tokyo UFJ Bank,960000,Financial Services,Lost / Stolen Device
+2005,Ameriprise Financial,"260,000 customer records",Financial Services,Lost / Stolen Device
+2005,TD Ameritrade,200000,Financial Services,Lost / Stolen Device
+2005,DSW Inc.,1400000,Retail & E-commerce,Hacking
+2005,ChoicePoint,"163,000 consumer records",Financial Services,Insider Threat
+2005,Bank of America,1200000,Financial Services,Lost / Stolen Device
+2005,Citigroup,3900000,Financial Services,Lost / Stolen Device
+2005,"CardSystems Solutions Inc. (MasterCard, Visa, Discover Financial Services and American Express)",40000000,Financial Services,Hacking
+2004,AOL,92000000,Technology,Insider Threat
+2004,Japanet Takata,510000,Retail & E-commerce,Insider Threat
