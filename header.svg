@@ -1,0 +1,51 @@
+<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#060810" />
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+    .text {
+      font-family: 'Orbitron', sans-serif;
+      fill: #00d4ff;
+      font-size: 42px;
+      font-weight: 900;
+      letter-spacing: 5px;
+      filter: url(#glow);
+    }
+    .flicker {
+      animation: flicker 4s infinite;
+    }
+    @keyframes flicker {
+      0%, 19.999%, 22%, 62.999%, 64%, 64.999%, 70%, 100% {
+        opacity: 1;
+      }
+      20%, 21.999%, 63%, 63.999%, 65%, 69.999% {
+        opacity: 0.4;
+      }
+    }
+    .scanline {
+      width: 100%;
+      height: 2px;
+      fill: rgba(0, 212, 255, 0.1);
+      animation: scan 3s linear infinite;
+    }
+    @keyframes scan {
+      0% { y: 0; }
+      100% { y: 150; }
+    }
+  </style>
+  <rect class="scanline" width="800" height="2" />
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text flicker">
+    CYBER INTELLIGENCE
+  </text>
+  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" style="font-family: Arial; fill: #444; font-size: 14px; letter-spacing: 3px;">
+    DATA BREACH ANALYTICS PLATFORM
+  </text>
+</svg>

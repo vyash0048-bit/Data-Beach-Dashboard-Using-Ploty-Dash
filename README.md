@@ -8,13 +8,23 @@ pinned: false
 license: mit
 ---
 
+<p align="center">
+  <img src="header.svg" width="800" alt="Cyber Intelligence Header">
+</p>
+
 # 🛡️ Cyber Intelligence Dashboard
 
 A high-performance, interactive analytics platform for visualizing global data breach intelligence. This dashboard provides deep insights into attack vectors, vulnerable sectors, and historical trends of cyber security incidents.
 
-![Dashboard Preview](Screenshot%202026-01-04%20190918.png)
+<p align="center">
+  <img src="Screenshot%202026-01-04%20190918.png" width="90%" alt="Dashboard Preview">
+</p>
 
 ## 🚀 Live Demo
+<p align="left">
+  <img src="loading.svg" width="150" alt="Loading">
+</p>
+
 You can view the live dashboard here: [Hugging Face Space](https://huggingface.co/spaces/YashAI07/DataBreach)
 
 ## ✨ Features
