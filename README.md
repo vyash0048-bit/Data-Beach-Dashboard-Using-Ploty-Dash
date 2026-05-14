@@ -1,13 +1,3 @@
----
-title: Cyber Intelligence Dashboard
-emoji: 🛡️
-colorFrom: blue
-colorTo: red
-sdk: docker
-pinned: false
-license: mit
----
-
 <p align="center">
   <img src="header.svg" width="800" alt="Cyber Intelligence Header">
 </p>
